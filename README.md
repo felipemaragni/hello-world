@@ -1,4 +1,14 @@
 # hello-world
-My first repository in GitHub to see how it works!
 
-I am taking the Udemy Python course and it took me to here.
+I am taking the Udemy Python course and it took me to this place.
+
+Is 5 == 5?
+Truzão
+
+print('hello world')
+
+funcionou?
+
+
+
+MAIS UMA BRANCH BRANCHCEPTIONNN
